@@ -1,5 +1,5 @@
 
-# 🧪 LAB 24: Configure Inter-VLAN Routing (Router-on-a-Stick)
+# 🧪 LAB 4: Configure Inter-VLAN Routing (Router-on-a-Stick)
 
 ## 📌 Overview
 
@@ -147,4 +147,7 @@ ping 192.168.30.6
 This lab demonstrates how a single router interface can route traffic between multiple VLANs using subinterfaces and trunking. It is a cost-effective method for inter-VLAN routing in small to medium networks.
 
 ---
+## Network Topology
+
+![Enterprise Network Topology](topology-screenshot.png)
 
